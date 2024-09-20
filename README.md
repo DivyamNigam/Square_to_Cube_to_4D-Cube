@@ -3,13 +3,19 @@ Training a NN to transform square to cube the to 4d cube and understanding 4d sh
 
 This project was made to understand 4d shapes. So training a NN to transform a 2d shape to 3d and then to 4d is what you can see below.
 2D Square
-![image](https://github.com/user-attachments/assets/8656502c-54bc-4f3b-b6ef-f65e8ee619e4)
+
+![image](https://github.com/user-attachments/assets/bfefb0ae-3a2f-4b72-882b-d81fff2f9723)
+
 
 3D Cube
-![image](https://github.com/user-attachments/assets/22346b33-1e57-40e9-8f90-7c26a5802604)
+
+![image](https://github.com/user-attachments/assets/beb45338-3a25-4095-9c97-c303c2358161)
+
 
 4D Tesseract
-![image](https://github.com/user-attachments/assets/ba644608-e56a-4769-85d8-d92b3106b523)
+
+![image](https://github.com/user-attachments/assets/f67da372-3b92-4e23-bd18-df996f2b4cc3)
+
 
 
 
